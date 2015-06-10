@@ -14,5 +14,5 @@
 ## Android
 
 #### Testes
-* [Espresso](https://code.google.com/p/android-test-kit/wiki/Espresso/) - Google's Testing Tools For Android
+* [Espresso](https://code.google.com/p/android-test-kit/wiki/Espresso) - Google's Testing Tools For Android
 
