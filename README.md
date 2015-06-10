@@ -14,6 +14,5 @@
 ## Android
 
 #### Testes
-* [Robotium](https://code.google.com/p/robotium/?) - The world's leading Android™ test automation framework
-* [Android Test Kit](https://code.google.com/p/android-test-kit/) - Google's Testing Tools For Android
+* [Espresso](https://code.google.com/p/android-test-kit/wiki/Espresso/) - Google's Testing Tools For Android
 
